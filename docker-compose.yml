@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : Notes-APP-CICD/notes-app-jenkins:latest
+     image : notes-app-cicd/notes-app-jenkins:latest
      ports :
          - "8000:8000"
